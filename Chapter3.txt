@@ -1,1 +1,1 @@
-This is the thehird chapter for practicing git.
+This is the third chapter for practicing git.
